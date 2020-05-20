@@ -3,4 +3,4 @@ key : user.name
 Value : 사용할 이름
 key : user.email
 Value : 사용할 이메일
-설정해두면 Commit 할때 이름이 
+설정해두면 Commit 할때 이름이 나옴
